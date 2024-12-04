@@ -4,33 +4,26 @@ Overview
 This dashboard visualizes basketball performance data across teams, players, and seasons. It highlights team outcomes, individual contributions, game types, and scoring strategies. Below is a detailed analysis of the questions asked, the analytics performed, and actionable managerial insights derived from the visualizations.
 
 1.) Questions Asked for Developing This Dashboard
-1. Game Outcomes by Team
-
-2. Which teams have the most wins across seasons?
+- Game Outcomes by Team
+-Which teams have the most wins across seasons?
 - How do team win counts vary?
 - Player Performance (Point Distribution)
-
-3. Which players contribute the most points, and what is their scoring breakdown (2PT, 3PT, FT)?
+- Which players contribute the most points, and what is their scoring breakdown (2PT, 3PT, FT)?
 - How is scoring distributed across players?
 - Time on Court Distribution
-
-4. How much time do players spend on the court?
+- How much time do players spend on the court?
 - Which players are utilized the most in terms of playing time?
 - Assisted vs. Unassisted Scoring
-
-5. What percentage of field goals are assisted versus unassisted for different teams or players?
+- What percentage of field goals are assisted versus unassisted for different teams or players?
 - Which teams rely more on team play versus individual performance?
 - Game Type Performance
-
-6. What is the distribution of games between the regular season, playoffs, and play-ins?
+- What is the distribution of games between the regular season, playoffs, and play-ins?
 - Which game types are more prominent?
 - Season-wise Performance
-
-7. How has team performance (e.g., win counts) evolved across seasons?
+- How has team performance (e.g., win counts) evolved across seasons?
 - Are there specific seasons with higher team success?
 - Point Source Analysis
-
-8. How dependent are teams on fast-break points compared to other scoring sources?
+- How dependent are teams on fast-break points compared to other scoring sources?
 - Which teams rely heavily on fast-paced play?
 
 ![image](https://github.com/user-attachments/assets/75596fb0-206e-4343-a5a9-4e0cf8bb4ddb)
